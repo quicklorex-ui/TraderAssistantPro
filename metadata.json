@@ -1,0 +1,6 @@
+{
+  "name": "Smart Trading Signal Assistant",
+  "description": "An interactive AI-powered trading companion that conducts full technical analysis including liquidity, trend, momentum, support/resistance, volatility, VWAP, and sentiment analysis for stock, crypto, and forex symbols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
